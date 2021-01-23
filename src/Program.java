@@ -14,6 +14,7 @@ public class Program {
 
         //Keeps the interaction with user going until he/she will break it
         while (true) {
+            System.out.println("-----------");
             System.out.println("What you want to do?");
             System.out.println("1: List all the file names \n2: Get files by extension \n3: Get information about .txt file \nB: Break");
             String option = scanner.nextLine(); 
