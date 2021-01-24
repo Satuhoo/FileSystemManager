@@ -1,0 +1,18 @@
+Log:
+
+
+2021-01-24T11:12:48.889409400: Printed all file names. The function took 16ms to execute.
+
+2021-01-24T11:12:55.305453900: Printed files by entered extension 'jpg'. The function took 28ms to execute.
+
+2021-01-24T11:13:01.369905: Printed files by entered extension 'jfif'. The function took 18ms to execute.
+
+2021-01-24T11:13:07.041649: Searched file by entered name 'dracula'. The function took 5ms to execute.
+
+2021-01-24T11:13:07.046980300: The size of file was 883160. The function took 145ms to execute.
+
+2021-01-24T11:13:07.195264700: There was 15973 lines in the file '..\src\resources\Dracula.txt'. The function took 36ms to execute.
+
+2021-01-24T11:13:13.018207600: The term 'dracula' was found 43 times. The function took 212ms to execute.
+
+2021-01-24T11:13:48.532807800: Searched file by entered name 'hello'. The function took 19ms to execute.
