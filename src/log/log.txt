@@ -16,3 +16,5 @@ Log:
 2021-01-24T11:13:13.018207600: The term 'dracula' was found 43 times. The function took 212ms to execute.
 
 2021-01-24T11:13:48.532807800: Searched file by entered name 'hello'. The function took 19ms to execute.
+
+2021-01-24T14:30:03.939370300: Printed all file names. The function took 4ms to execute.

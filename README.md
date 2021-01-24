@@ -1,6 +1,6 @@
 # File system manager
 
-Java console application which gathering information about files in the project folder. Project includes logging service which logs all activies to logging file with timestamp and duration of the function calls. Project has compiled without IDE.
+Java console application which gathers information about the files in the project folder. Project includes logging service which logs all activies to logging file with timestamp and duration of the function calls. Project has compiled without IDE.
 
 ### Functionality
 
@@ -17,4 +17,13 @@ Java console application which gathering information about files in the project 
     - Searches entered word from the file
 
 ### Compailing
+
+The command which compiled .java files into .class files in 'out' folder.
+
+![Image](src/screenshots/javac_command.png)
+
+The commands which created .jar file and run it.
+
+![Image](src/screenshots/jar_command.png)
+
 
